@@ -2,7 +2,7 @@
     <div>
         <b-navbar toggleable="lg" type="dark" variant="faded">
             <b-navbar-brand href="#">
-                <b-img src="images/energy-logo.png" v-bind="mainProps" rounded="0" width="100"></b-img>
+                Logic Labz
             </b-navbar-brand>
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
